@@ -1,0 +1,3 @@
+[submodule "quarto-template"]
+	path = quarto-template
+	url = https://github.com/anabanted/quarto-template
